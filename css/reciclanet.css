@@ -320,6 +320,7 @@ color: #f06060;
 /* Section */
 .section {
 	padding: 45px 0 0 0;
+	min-height:545px;
 }
 .section.orange {
 	background-color: #4e97cc;
@@ -327,7 +328,7 @@ color: #f06060;
 .section.gray {
 	border-top: 1px solid #f2f2f2;
 	border-bottom: 1px solid #f2f2f2;
-	background:rgba(58, 166, 64, 0.02);
+	background:rgba(58, 166, 64, 0.1);
 }
 .section .subheading {
 	font-size: 20px;
